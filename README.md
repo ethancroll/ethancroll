@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://ethanc.org">ethanc.org</a> •
-  <a href="mailto:e@ethanc.org.com">e@ethanc.org</a>
+  <a href="mailto:e@ethanc.org">e@ethanc.org</a>
 </p>
 
 ---
