@@ -24,6 +24,6 @@ You can reach me through ethancmedia at **https://ethanc.org**.
 
 ---
 
-<p align="center">extras, if you're interested
-  <a href="https://royaleapi.com/player/QYL0GYR9Y/>clash stats</a>
+<p align="center">extras, if you're interested<br>
+  <a href="https://royaleapi.com/player/QYL0GYR9Y/">clash stats</a>
 </p>
