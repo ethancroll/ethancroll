@@ -21,3 +21,9 @@
 ## Work with me
 Want a website built (or rebuilt) for your team or business?  
 You can reach me through ethancmedia at **https://ethanc.org**.
+
+---
+
+<p align="center">extras, if you're interested
+  <a href="https://royaleapi.com/player/QYL0GYR9Y/>clash stats</a>
+</p>
