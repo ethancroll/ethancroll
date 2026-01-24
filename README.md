@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Ethan Carroll</h1>
+<p align="center">
+  I build websites and the back-end systems that power apps.
+</p>
 
-<!--
-**ethancroll/ethancroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ethanc.org">ethanc.org</a> •
+  <a href="mailto:e@ethanc.org.com">e@ethanc.org</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Build modern, high performance, durable websites
+- Develop reliable back-end services for teams
+
+## Tech I use
+- Next.js
+- Java
+
+## Work with me
+Want a website built (or rebuilt) for your team or business?  
+You can reach me through ethancmedia at **https://ethanc.org**.
