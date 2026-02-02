@@ -14,13 +14,17 @@
 - Build modern, high performance, durable websites
 - Develop reliable back-end services for teams
 
+## Current projects
+- <a href="https://github.com/ethancroll/openTrade">openTrade</a>
+
 ## Tech I use
 - Next.js
 - Java
+- Go
 
-## Work with me
-Want a website built (or rebuilt) for your team or business?  
-You can reach me through ethancmedia at **https://ethanc.org**.
+## Previous projects
+- <a href="https://github.com/ethancroll/simulation-controller">Simulation controller</a>
+
 
 ---
 
