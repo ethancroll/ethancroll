@@ -24,6 +24,7 @@
 
 ## Previous projects
 - <a href="https://github.com/ethancroll/simulation-controller">Simulation controller</a>
+- <a href="https://github.com/ethancroll/jobtrack">Job track</a>
 
 
 ---
