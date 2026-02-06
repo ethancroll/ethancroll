@@ -1,4 +1,5 @@
 <h1 align="center">Ethan Carroll</h1>
+
 <p align="center">
   I build websites and the back-end systems that power apps.
 </p>
@@ -10,26 +11,28 @@
 
 ---
 
-## What I do
-- Build modern, high performance, durable websites
-- Develop reliable back-end services for teams
+## my goal
+Build high performance, durable, maintainable code that the world can rely on.
 
-## Current projects
+## current projects
 - <a href="https://github.com/ethancroll/openTrade">openTrade</a>
 - <a href="https://github.com/ethancroll/localFile">localFile</a>
 
-## Tech I use
+## tech stack
 - Next.js
 - Java
 - Go
+
+## commit stats
+![Streak](https://streak-stats.demolab.com?user=ethancroll)
 
 ## Previous projects
 - <a href="https://github.com/ethancroll/simulation-controller">Simulation controller</a>
 - <a href="https://github.com/ethancroll/jobtrack">Job track</a>
 
-
 ---
 
-<p align="center">extras, if you're interested<br>
+<p align="center">
+  extras, if you're interested<br>
   <a href="https://royaleapi.com/player/QYL0GYR9Y/">clash stats</a>
 </p>
