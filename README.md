@@ -16,6 +16,7 @@
 
 ## Current projects
 - <a href="https://github.com/ethancroll/openTrade">openTrade</a>
+- <a href="https://github.com/ethancroll/localFile">localFile</a>
 
 ## Tech I use
 - Next.js
