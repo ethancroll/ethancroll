@@ -16,17 +16,15 @@ Build high performance, durable, maintainable code that the world can rely on.
 
 ## current projects
 - <a href="https://github.com/ethancroll/openTrade">openTrade</a>
-- <a href="https://github.com/ethancroll/localFile">localFile</a>
 
 ## tech stack
 - Next.js
 - Java
 - Go
 
-## commit stats
-![Streak](https://streak-stats.demolab.com?user=ethancroll)
 
 ## Previous projects
+- <a href="https://github.com/ethancroll/localFile">localFile (V1.0 released!)</a>
 - <a href="https://github.com/ethancroll/simulation-controller">Simulation controller</a>
 - <a href="https://github.com/ethancroll/jobtrack">Job track</a>
 
