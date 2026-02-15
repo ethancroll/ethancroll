@@ -15,7 +15,7 @@
 Build high performance, durable, maintainable code that the world can rely on.
 
 ## current projects
-- <a href="https://github.com/ethancroll/openTrade">openTrade</a>
+- <a href="https://github.com/ethancroll/openCalc">openCalc</a>
 
 ## tech stack
 - Next.js
