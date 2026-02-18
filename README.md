@@ -14,20 +14,16 @@
 ## my goal
 Build high performance, durable, maintainable code that the world can rely on.
 
-## current projects
-- <a href="https://github.com/ethancroll/openCalc">openCalc</a>
+## projects
+- <a href="https://github.com/ethancroll/openCalc">openCalc (terminal based calculator)</a>
+- <a href="https://github.com/ethancroll/localFile">localFile (local network file transfer)</a>
+- <a href="https://github.com/ethancroll/simulation-controller">Simulation controller (flight and driving sim button box)</a>
+- <a href="https://github.com/ethancroll/jobtrack">Job track (terminal based working time to earnings)</a>
 
 ## tech stack
 - Next.js
-- Java
 - Go
-
-
-## Previous projects
-- <a href="https://github.com/ethancroll/localFile">localFile (V1.0 released!)</a>
-- <a href="https://github.com/ethancroll/simulation-controller">Simulation controller</a>
-- <a href="https://github.com/ethancroll/jobtrack">Job track</a>
-
+- HTML, CSS, JS
 ---
 
 <p align="center">
