@@ -15,7 +15,6 @@
 Build high performance, durable, maintainable code that the world can rely on.
 
 ## projects
-- <a href="https://github.com/ethancroll/whop-nextjs">whop-nextjs (a framework to sell paid apps using Whop and NextJS)</a>
 - <a href="https://github.com/ethancroll/openCalc">openCalc (terminal based calculator)</a>
 - <a href="https://github.com/ethancroll/secretsHolder">secretsHolder (simple web based .env viewer)</a>
 - <a href="https://github.com/ethancroll/localFile">localFile (local network file transfer)</a>
