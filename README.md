@@ -31,3 +31,19 @@ Build high performance, durable, maintainable code that the world can rely on.
   extras, if you're interested<br>
   <a href="https://royaleapi.com/player/QYL0GYR9Y/">clash stats</a>
 </p>
+
+
+<div id="seconds"></div>
+<div id="name"></div>
+<div id="working"></div>
+
+    <script>
+        fetch('http://localhost:3000/api/mongo/read?userId=user_01KJEGG5V0P9APQ3DP1QDGYRPE')
+            .then(res => res.json())
+            .then(data => {
+                document.getElementById('seconds').textContent = data.seconds;
+                document.getElementById('name').textContent = data.name;
+                document.getElementById('working').textContent = data.working;
+            })
+            .catch(err => console.error(err));
+    </script>
