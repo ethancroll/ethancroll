@@ -31,6 +31,3 @@ Build high performance, durable, maintainable code that the world can rely on.
   extras, if you're interested<br>
   <a href="https://royaleapi.com/player/QYL0GYR9Y/">clash stats</a>
 </p>
-
-
-![my status](http://localhost:3000/api/badge?userId=user_01KJEGG5V0P9APQ3DP1QDGYRPE)
