@@ -22,6 +22,8 @@
 - <a href="https://github.com/ethancroll/simulation-controller">Simulation controller (flight and driving sim button box)</a>
 - <a href="https://github.com/ethancroll/jobtrack">Job track (terminal based working time to earnings)</a>
 
+![ethancroll github stats](https://github-readme-streak-stats.herokuapp.com/?user=ethancroll&theme=default)
+
 ---
 
 <p align="center">
